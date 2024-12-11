@@ -1,0 +1,26 @@
+img {
+  width: 150px;
+}
+html {
+  background-color: rgb(18, 31, 71);
+  font-family: "Itim", cursive;
+}
+
+body {
+  width: 800px;
+  background-color: white;
+  margin: auto;
+  padding: 60px;
+  text-align: center;
+  box-shadow: 10px 10px 8px #020931;
+}
+a {
+  font-size: 15px;
+  color: black;
+}
+a:hover {
+  color: blue;
+}
+a:visited {
+  color: rgb(35, 77, 80);
+}
